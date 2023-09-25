@@ -2,7 +2,7 @@
 
 Pendant mon stage de 5 semaines en tant qu'étudiant en BTS SIO, j'ai eu le privilège de travailler au sein de la Mairie du Lamentin, située dans la magnifique ville du Lamentin en Martinique. La mairie est au cœur de l'administration locale et joue un rôle essentiel dans la prestation de services à la communauté.
 
-Mon stage a été encadré par Stéphane JEAN, un professionnel chevronné qui occupe le poste de technicien. Collaborer avec lui m'a offert une opportunité exceptionnelle d'apprendre et de contribuer au sein d'une institution publique, où les enjeux informatiques sont cruciaux pour le bon fonctionnement des services municipaux.
+Mon stage a été encadré par Stéphane JEAN, un professionnel chevronné qui occupe le poste de technicien informatique. Collaborer avec lui m'a offert une opportunité exceptionnelle d'apprendre et de contribuer au sein d'une institution publique, où les enjeux informatiques sont cruciaux pour le bon fonctionnement des services municipaux.
 
 La Mairie du Lamentin est largement reconnue pour son engagement envers la modernisation des processus administratifs et sa volonté d'améliorer la communication avec les citoyens. En tant qu'étudiant en BTS SIO, j'ai été ravi de contribuer à cet objectif en participant activement à la création d'un site web avec WordPress qui servira de plateforme d'information pour les résidents de la ville.
 
