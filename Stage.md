@@ -1,6 +1,5 @@
 <h1>Mon stage</h1>
 
-<a href="Objectifs">Objectifs du stage</a>
 
 Pendant mon stage de 5 semaines en tant qu'étudiant en BTS SIO, j'ai eu le privilège de travailler au sein de la Mairie du Lamentin, située dans la magnifique ville du Lamentin en Martinique. La mairie est au cœur de l'administration locale et joue un rôle essentiel dans la prestation de services à la communauté.
 
